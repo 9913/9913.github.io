@@ -1,5 +1,5 @@
-var _0 = "https://qr.alipay.com/c1x02824eqypfntmexups33";
-var _1 = "https://qr.alipay.com/c1x02824eqypfntmexups33";
+var _0 = "https://qr.alipay.com/c1x01496lscxdev8oy1bv15";
+var _1 = "https://qr.alipay.com/c1x01496lscxdev8oy1bv15";
 
 function is_weixin() {
     if (/MicroMessenger/i.test(navigator.userAgent)) {
